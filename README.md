@@ -17,7 +17,7 @@ Intrest :
 
 
 ```python
-"""PYTHON, ML, AI, IT, PROGRAMMING, NLP, CHATGPT, GOOGLE"""
+"""PYTHON, ML, AI, IT, PROGRAMMING, NLP, CHATGPT, GOOGLE, BARD"""
 ```
 
 ---
