@@ -15,15 +15,8 @@ src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg
 </div>
 
 ---
-</a>
-
-Intrest :
-<h1 style="padding-left:30px">🠋</h1>
 
 
-```python
-"""PYTHON, ML, AI, IT, PROGRAMMING"""
-```
 
 ---
 
