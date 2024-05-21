@@ -1,29 +1,18 @@
 # Mrithul.E
 
 <a href="https://github.com/Mrithul-E">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrithul-E&title_color=9925be&text_color=2596be&bg_color=041014"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrithul-E&title_color=010141&text_color=010141&bg_color=5F5FFF"/>
 </a>
 
-| _Accounts :_
+Hi, I am Mrithul. I am a developer and a student from India 👋 <br>
 
-<h1 style="padding-left:30px">🠋</h1>
+###  😎✨ Skills 
 
-<div style="padding:10px">
-<a href="https://stackoverflow.com/users/19938225/mrithul-e"><img style="width:50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png">
-<p>mrithul e</p>
-<a href = "https://www.instagram.com/mrithull_/"><img style="width:50px"
-src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg">
-<p>mrithull_</p>
+## Good Knowledge-to-less Knowledge
+
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/) [![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com) [![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev) [![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev) [![HTML](https://skillicons.dev/icons?i=html)](https://html.spec.whatwg.org/multipage) [![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com) [![Sublime Text](https://skillicons.dev/icons?i=sublime)](https://www.sublimetext.com) [![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com) [![Kali Linux](https://skillicons.dev/icons?i=kali)](https://www.kali.org) [![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language)) [![Java](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java)
 
 
-
-</div>
-
----
-
-
-
----
 
 
 
