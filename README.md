@@ -1,4 +1,4 @@
-# Mrithul.e
+# Mrithul.E
 
 <a href="https://github.com/Mrithul-E">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrithul-E&title_color=9925be&text_color=2596be&bg_color=041014"/>
