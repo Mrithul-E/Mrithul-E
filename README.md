@@ -16,7 +16,7 @@ Hi, I am Mrithul. I am a developer and a student from Kerala,India 👋 <br>
 
 # 🤝 connect with me
 
-- 📨 Gmail - [mrithul100@gmail.com](mrithul100@gmail.com)
+- 📨 Gmail - [mrithul100@gmail.com](mailto:mrithul100@gmail.com)
 
 
 
