@@ -17,7 +17,7 @@ Hi, I am Mrithul. I am a developer and a student from Kerala,India 👋 <br>
 # 🤝 connect with me
 
 - 📨 Gmail - [mrithul100@gmail.com](mailto:mrithul100@gmail.com)
-- 📸 Instagram - [mrithull_](www.instagram.com/mrithull_)
+- 📸 Instagram - [mrithull_](https://www.instagram.com/mrithull_)
 
 
 
