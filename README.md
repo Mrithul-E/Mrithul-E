@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrithul-E&title_color=010141&text_color=010141&bg_color=5F5FFF"/>
 </a>
 
-Hi, I am Mrithul. I am a developer and a student from India 🇮🇳 👋 <br>
+Hi, I am Mrithul. I am a developer and a student from Kerala,India 👋 <br>
 
 ###  😎✨ Skills 
 
