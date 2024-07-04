@@ -1,5 +1,7 @@
 # Mrithul.E
 
+![alt text](https://avatars.githubusercontent.com/u/125123198?v=4) 
+
 [![my status](https://github-readme-stats.vercel.app/api?username=Mrithul-E)](https://github.com/Mrithul-E)
 
 <a href="https://github.com/Mrithul-E">
