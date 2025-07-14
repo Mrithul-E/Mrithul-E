@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>🎓 Student | 💻 Developer | 📍 Kerala, India</b><br>
+  <b>🎓 Student | 💻 Developer | 📍 Kannur, Kerala, India</b><br>
   I build with passion, learn with curiosity, and grow with every line of code.
 </p>
 
