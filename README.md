@@ -28,7 +28,7 @@
   <img src="https://skillicons.dev/icons?i=python,flask,flutter,dart,html,java,c,vscode,sublime,stackoverflow,kali" />
 </p>
 
-<p align="center"><i>“From mastery to momentum: Python → Flask → Flutter → Dart → HTML → More!”</i></p>
+<p align="center"><i>“From mastery to momentum: Python → Flask → HTML → Flutter → Dart → More!”</i></p>
 
 ---
 
